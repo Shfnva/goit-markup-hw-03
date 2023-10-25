@@ -46,6 +46,7 @@ body {
 }
 .page-header {
   border-bottom: 1px solid #e7e9fc;
+  padding: 24px 0;
 }
 .main-nav {
   display: flex;
@@ -262,7 +263,6 @@ body {
 }
 .box-portfolio {
   padding: 32px 16px;
-  text-align: center;
   border: 1px solid #e7e9fc;
   border-top: none;
 }
